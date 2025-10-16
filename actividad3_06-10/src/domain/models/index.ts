@@ -1,0 +1,8 @@
+export { User } from "./user.model"
+export { Admin } from "./admin.model"
+export { Coach } from "./coach.model"
+export { GymClass } from "./gym-class.model"
+export { Machine } from "./machine.model"
+export { Plan } from "./plan.model"
+export { Membership } from "./membership.model"
+export { Payment } from "./payment.model"

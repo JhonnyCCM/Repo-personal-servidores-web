@@ -1,0 +1,8 @@
+export { CoachService } from './coach.service'
+export { MachineService } from './machine.service'
+export { GymClassService } from './gym-class.service'
+export { UserService } from './user.service'
+export { AdminService } from './admin.service'
+export { PlanService } from './plan.service'
+export { MembershipService } from './membership.service'
+export { PaymentService } from './payment.service'
